@@ -1,5 +1,5 @@
 # mac-passwords-app
-An app that allows you to view keychain passwords with one click
+An app that allows you to view keychain passwords with one click.
 
 How it works: opens the passwords prefPane
 
