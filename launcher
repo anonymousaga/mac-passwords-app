@@ -1,0 +1,2 @@
+#!/bin/zsh
+open /System/Library/PreferencePanes/Passwords.prefPane
