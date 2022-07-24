@@ -7,3 +7,15 @@ How it works: opens the passwords prefPane
 
 If you use macOS Big sur or older, try my older app (it is only tested on Big Sur, but it should work for macOS a bit older)
 https://github.com/anonymousaga/mac-passwords-app-big-sur
+  
+  <br>
+  <br>
+  
+  
+  
+  
+
+
+If you like my apps, you can send me Bitcoin here: 3QGaKdQdDgcJbLPGCqDFNjZYEY8b26UghU
+
+Any amount is appreciated
